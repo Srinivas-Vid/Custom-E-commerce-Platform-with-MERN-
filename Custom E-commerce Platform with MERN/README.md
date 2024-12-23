@@ -1,1 +1,1 @@
-# E-commerce Platform (Half-Baked Version)
+# Custom E-commerce Platform with MERN
